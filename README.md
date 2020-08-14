@@ -11,7 +11,7 @@
  In this project I used this contents:
  
     -URP
-    -SOLID Prensibles
+    -SOLID Principles
     -Scriptable Level Design
     -UI elements for hyper-casual games.
     -DOTween
