@@ -10,7 +10,7 @@
  
  In this project I used this contents:
  
-    -UPR
+    -URP
     -SOLID Prensibles
     -Scriptable Level Design
     -UI elements for hyper-casual games.
